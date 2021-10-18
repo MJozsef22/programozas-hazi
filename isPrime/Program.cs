@@ -10,7 +10,7 @@ namespace isPrime
     {
         static void Main(string[] args)
         {
-            int[] numbers = { 1, 2, 43, 55, 97, 22, 88, 67, 71 };
+            int[] numbers = { 0, 1, 2, 43, 55, 97, 22, 88, 67, 71 };
 
             int result = IsPrime(numbers);
             Console.WriteLine("\n   A tömben található prímszámok száma: " + result);
@@ -28,6 +28,7 @@ namespace isPrime
 
             for (int i = 0; i < givenArray.Length; i++)
             {
+
                 if (givenArray[i] > 2)
                 {
 
@@ -42,6 +43,7 @@ namespace isPrime
                 }
                 else if (givenArray[i] > 0)
                     Quantity++;
+
             }
             return Quantity;
         }
