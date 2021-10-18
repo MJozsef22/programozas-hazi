@@ -1,0 +1,7 @@
+D:\programozas_hazik\isPrime\obj\Debug\isPrime.csproj.AssemblyReference.cache
+D:\programozas_hazik\isPrime\obj\Debug\isPrime.csproj.CoreCompileInputs.cache
+D:\programozas_hazik\isPrime\bin\Debug\isPrime.exe.config
+D:\programozas_hazik\isPrime\bin\Debug\isPrime.exe
+D:\programozas_hazik\isPrime\bin\Debug\isPrime.pdb
+D:\programozas_hazik\isPrime\obj\Debug\isPrime.exe
+D:\programozas_hazik\isPrime\obj\Debug\isPrime.pdb
