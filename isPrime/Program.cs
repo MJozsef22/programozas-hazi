@@ -10,42 +10,38 @@ namespace isPrime
     {
         static void Main(string[] args)
         {
-            int[] numbers = { 0, 1, 2, 43, 55, 97, 22, 88, 67, 71 };
+            int[] numbers = { 0, 2, 2, 43, 55, 97, 22, 67, 88, 71 };
+            int count = 0;
+            foreach (int item in numbers)
+            {
+                if (isPrime(item))
+                {
+                    count++;
+                }
+            }
 
-            int result = IsPrime(numbers);
-            Console.WriteLine("\n   A tömben található prímszámok száma: " + result);
+            Console.WriteLine("\n   A tömben található prímszámok száma: " + count);
 
 
             Console.ReadKey();
         }
 
-        static int IsPrime(int[] givenArray)
+        static bool isPrime(int givenNumber)
         {
+            int a = 0;
 
-            int osztokSzama = 0;
-            int oszto = 1;
-            int Quantity = 0;
-
-            for (int i = 0; i < givenArray.Length; i++)
+            for (int j = 1; j <= givenNumber; j++)
             {
-
-                if (givenArray[i] > 2)
+                if (givenNumber % j == 0)
                 {
-
-                    if (givenArray[i] % oszto == 0)
-                    {
-                        oszto++;
-                        osztokSzama++;
-                    }
-
-                    if (osztokSzama == 2)
-                        Quantity++;
+                    a++;
                 }
-                else if (givenArray[i] > 0)
-                    Quantity++;
-
             }
-            return Quantity;
+            if (a == 2)
+            {
+                return true;
+            }
+            return false;
         }
 
     }
