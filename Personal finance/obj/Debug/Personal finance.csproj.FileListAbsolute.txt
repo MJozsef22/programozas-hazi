@@ -1,0 +1,7 @@
+D:\programozas-hazi\Personal finance\bin\Debug\Personal finance.exe.config
+D:\programozas-hazi\Personal finance\bin\Debug\Personal finance.exe
+D:\programozas-hazi\Personal finance\bin\Debug\Personal finance.pdb
+D:\programozas-hazi\Personal finance\obj\Debug\Personal finance.csproj.AssemblyReference.cache
+D:\programozas-hazi\Personal finance\obj\Debug\Personal finance.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\Personal finance\obj\Debug\Personal finance.exe
+D:\programozas-hazi\Personal finance\obj\Debug\Personal finance.pdb

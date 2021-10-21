@@ -1,0 +1,7 @@
+D:\programozas-hazi\Names\bin\Debug\Names.exe.config
+D:\programozas-hazi\Names\bin\Debug\Names.exe
+D:\programozas-hazi\Names\bin\Debug\Names.pdb
+D:\programozas-hazi\Names\obj\Debug\Names.csproj.AssemblyReference.cache
+D:\programozas-hazi\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\Names\obj\Debug\Names.exe
+D:\programozas-hazi\Names\obj\Debug\Names.pdb
