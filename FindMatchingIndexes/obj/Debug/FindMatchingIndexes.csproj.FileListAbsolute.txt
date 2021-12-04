@@ -1,0 +1,7 @@
+D:\programozas-hazi\FindMatchingIndexes\obj\Debug\FindMatchingIndexes.csproj.AssemblyReference.cache
+D:\programozas-hazi\FindMatchingIndexes\obj\Debug\FindMatchingIndexes.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\FindMatchingIndexes\bin\Debug\FindMatchingIndexes.exe.config
+D:\programozas-hazi\FindMatchingIndexes\bin\Debug\FindMatchingIndexes.exe
+D:\programozas-hazi\FindMatchingIndexes\bin\Debug\FindMatchingIndexes.pdb
+D:\programozas-hazi\FindMatchingIndexes\obj\Debug\FindMatchingIndexes.exe
+D:\programozas-hazi\FindMatchingIndexes\obj\Debug\FindMatchingIndexes.pdb

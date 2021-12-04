@@ -1,0 +1,7 @@
+D:\programozas-hazi\dictionary\bin\Debug\dictionary.exe.config
+D:\programozas-hazi\dictionary\bin\Debug\dictionary.exe
+D:\programozas-hazi\dictionary\bin\Debug\dictionary.pdb
+D:\programozas-hazi\dictionary\obj\Debug\dictionary.csproj.AssemblyReference.cache
+D:\programozas-hazi\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\dictionary\obj\Debug\dictionary.exe
+D:\programozas-hazi\dictionary\obj\Debug\dictionary.pdb
