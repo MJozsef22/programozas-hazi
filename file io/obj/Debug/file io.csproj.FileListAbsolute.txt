@@ -1,0 +1,7 @@
+C:\Users\jozse\source\repos\file io\bin\Debug\file io.exe.config
+C:\Users\jozse\source\repos\file io\bin\Debug\file io.exe
+C:\Users\jozse\source\repos\file io\bin\Debug\file io.pdb
+C:\Users\jozse\source\repos\file io\obj\Debug\file io.csproj.AssemblyReference.cache
+C:\Users\jozse\source\repos\file io\obj\Debug\file io.csproj.CoreCompileInputs.cache
+C:\Users\jozse\source\repos\file io\obj\Debug\file io.exe
+C:\Users\jozse\source\repos\file io\obj\Debug\file io.pdb
