@@ -5,3 +5,10 @@ C:\Users\jozse\source\repos\file io\obj\Debug\file io.csproj.AssemblyReference.c
 C:\Users\jozse\source\repos\file io\obj\Debug\file io.csproj.CoreCompileInputs.cache
 C:\Users\jozse\source\repos\file io\obj\Debug\file io.exe
 C:\Users\jozse\source\repos\file io\obj\Debug\file io.pdb
+D:\programozas-hazi\file io\bin\Debug\file io.exe.config
+D:\programozas-hazi\file io\bin\Debug\file io.exe
+D:\programozas-hazi\file io\bin\Debug\file io.pdb
+D:\programozas-hazi\file io\obj\Debug\file io.csproj.AssemblyReference.cache
+D:\programozas-hazi\file io\obj\Debug\file io.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\file io\obj\Debug\file io.exe
+D:\programozas-hazi\file io\obj\Debug\file io.pdb

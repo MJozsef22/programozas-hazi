@@ -32,7 +32,7 @@ namespace file_io
                 Console.WriteLine("A megadaott fájl nem találjóható a mappájában!");
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
 
         static void kiiras()
