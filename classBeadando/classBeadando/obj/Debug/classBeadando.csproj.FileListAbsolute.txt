@@ -1,0 +1,8 @@
+D:\programozas\C#\classBeadando\classBeadando\bin\Debug\classBeadando.exe.config
+D:\programozas\C#\classBeadando\classBeadando\bin\Debug\classBeadando.exe
+D:\programozas\C#\classBeadando\classBeadando\bin\Debug\classBeadando.pdb
+D:\programozas\C#\classBeadando\classBeadando\obj\Debug\classBeadando.csproj.AssemblyReference.cache
+D:\programozas\C#\classBeadando\classBeadando\obj\Debug\classBeadando.csproj.SuggestedBindingRedirects.cache
+D:\programozas\C#\classBeadando\classBeadando\obj\Debug\classBeadando.csproj.CoreCompileInputs.cache
+D:\programozas\C#\classBeadando\classBeadando\obj\Debug\classBeadando.exe
+D:\programozas\C#\classBeadando\classBeadando\obj\Debug\classBeadando.pdb
