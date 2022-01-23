@@ -1,0 +1,8 @@
+D:\programozas-hazi\rainydays\rainydays\bin\Debug\rainydays.exe.config
+D:\programozas-hazi\rainydays\rainydays\bin\Debug\rainydays.exe
+D:\programozas-hazi\rainydays\rainydays\bin\Debug\rainydays.pdb
+D:\programozas-hazi\rainydays\rainydays\obj\Debug\rainydays.csproj.AssemblyReference.cache
+D:\programozas-hazi\rainydays\rainydays\obj\Debug\rainydays.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\rainydays\rainydays\obj\Debug\rainydays.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\rainydays\rainydays\obj\Debug\rainydays.exe
+D:\programozas-hazi\rainydays\rainydays\obj\Debug\rainydays.pdb

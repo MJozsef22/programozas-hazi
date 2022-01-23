@@ -1,0 +1,8 @@
+D:\programozas-hazi\rekurzio\rekurzio\bin\Debug\rekurzio.exe.config
+D:\programozas-hazi\rekurzio\rekurzio\bin\Debug\rekurzio.exe
+D:\programozas-hazi\rekurzio\rekurzio\bin\Debug\rekurzio.pdb
+D:\programozas-hazi\rekurzio\rekurzio\obj\Debug\rekurzio.csproj.AssemblyReference.cache
+D:\programozas-hazi\rekurzio\rekurzio\obj\Debug\rekurzio.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\rekurzio\rekurzio\obj\Debug\rekurzio.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\rekurzio\rekurzio\obj\Debug\rekurzio.exe
+D:\programozas-hazi\rekurzio\rekurzio\obj\Debug\rekurzio.pdb
