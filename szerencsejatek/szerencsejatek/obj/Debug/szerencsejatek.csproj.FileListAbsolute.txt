@@ -1,0 +1,11 @@
+D:\programozas-hazi\szerencsejatek\szerencsejatek\bin\Debug\szerencsejatek.exe.config
+D:\programozas-hazi\szerencsejatek\szerencsejatek\bin\Debug\szerencsejatek.exe
+D:\programozas-hazi\szerencsejatek\szerencsejatek\bin\Debug\szerencsejatek.pdb
+D:\programozas-hazi\szerencsejatek\szerencsejatek\obj\Debug\szerencsejatek.csproj.AssemblyReference.cache
+D:\programozas-hazi\szerencsejatek\szerencsejatek\obj\Debug\szerencsejatek.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\szerencsejatek\szerencsejatek\obj\Debug\szerencsejatek.Ablak_1.resources
+D:\programozas-hazi\szerencsejatek\szerencsejatek\obj\Debug\szerencsejatek.Properties.Resources.resources
+D:\programozas-hazi\szerencsejatek\szerencsejatek\obj\Debug\szerencsejatek.csproj.GenerateResource.cache
+D:\programozas-hazi\szerencsejatek\szerencsejatek\obj\Debug\szerencsejatek.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\szerencsejatek\szerencsejatek\obj\Debug\szerencsejatek.exe
+D:\programozas-hazi\szerencsejatek\szerencsejatek\obj\Debug\szerencsejatek.pdb
