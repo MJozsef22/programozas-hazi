@@ -1,0 +1,8 @@
+D:\programozas-hazi\haromszog_kerulet_terulet\haromszog_kerulet_terulet\bin\Debug\haromszog_kerulet_terulet.exe.config
+D:\programozas-hazi\haromszog_kerulet_terulet\haromszog_kerulet_terulet\bin\Debug\haromszog_kerulet_terulet.exe
+D:\programozas-hazi\haromszog_kerulet_terulet\haromszog_kerulet_terulet\bin\Debug\haromszog_kerulet_terulet.pdb
+D:\programozas-hazi\haromszog_kerulet_terulet\haromszog_kerulet_terulet\obj\Debug\haromszog_kerulet_terulet.csproj.AssemblyReference.cache
+D:\programozas-hazi\haromszog_kerulet_terulet\haromszog_kerulet_terulet\obj\Debug\haromszog_kerulet_terulet.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\haromszog_kerulet_terulet\haromszog_kerulet_terulet\obj\Debug\haromszog_kerulet_terulet.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\haromszog_kerulet_terulet\haromszog_kerulet_terulet\obj\Debug\haromszog_kerulet_terulet.exe
+D:\programozas-hazi\haromszog_kerulet_terulet\haromszog_kerulet_terulet\obj\Debug\haromszog_kerulet_terulet.pdb
