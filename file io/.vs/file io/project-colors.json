@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab0e11d6-bb21-4a92-bf3d-74ddd1fb9045": {
+      "ProjectGuid": "ab0e11d6-bb21-4a92-bf3d-74ddd1fb9045",
+      "DisplayName": "file io",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,6 @@
+név	kor	monogram
+Mihálszki Milán	17	MM
+Hercegfi Mihály	16	HM
+Kővári Gergő	18	KG
+Michnay József	17	MJ
+Pálinkás-Recskó Márk	19	PRK

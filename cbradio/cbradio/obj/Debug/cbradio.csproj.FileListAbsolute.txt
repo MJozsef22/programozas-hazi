@@ -1,0 +1,8 @@
+D:\programozas-hazi\cbradio\cbradio\bin\Debug\cbradio.exe.config
+D:\programozas-hazi\cbradio\cbradio\bin\Debug\cbradio.exe
+D:\programozas-hazi\cbradio\cbradio\bin\Debug\cbradio.pdb
+D:\programozas-hazi\cbradio\cbradio\obj\Debug\cbradio.csproj.AssemblyReference.cache
+D:\programozas-hazi\cbradio\cbradio\obj\Debug\cbradio.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\cbradio\cbradio\obj\Debug\cbradio.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\cbradio\cbradio\obj\Debug\cbradio.exe
+D:\programozas-hazi\cbradio\cbradio\obj\Debug\cbradio.pdb

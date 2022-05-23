@@ -1,0 +1,8 @@
+D:\programozas-hazi\toto\toto\bin\Debug\toto.exe.config
+D:\programozas-hazi\toto\toto\bin\Debug\toto.exe
+D:\programozas-hazi\toto\toto\bin\Debug\toto.pdb
+D:\programozas-hazi\toto\toto\obj\Debug\toto.csproj.AssemblyReference.cache
+D:\programozas-hazi\toto\toto\obj\Debug\toto.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\toto\toto\obj\Debug\toto.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\toto\toto\obj\Debug\toto.exe
+D:\programozas-hazi\toto\toto\obj\Debug\toto.pdb

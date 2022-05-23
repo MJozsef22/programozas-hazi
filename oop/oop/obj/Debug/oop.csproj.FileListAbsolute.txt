@@ -1,0 +1,8 @@
+D:\programozas-hazi\oop\oop\bin\Debug\oop.exe.config
+D:\programozas-hazi\oop\oop\bin\Debug\oop.exe
+D:\programozas-hazi\oop\oop\bin\Debug\oop.pdb
+D:\programozas-hazi\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+D:\programozas-hazi\oop\oop\obj\Debug\oop.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\oop\oop\obj\Debug\oop.exe
+D:\programozas-hazi\oop\oop\obj\Debug\oop.pdb
