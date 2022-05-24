@@ -1,0 +1,8 @@
+D:\programozas-hazi\SuperBowl\SuperBowl\bin\Debug\SuperBowl.exe.config
+D:\programozas-hazi\SuperBowl\SuperBowl\bin\Debug\SuperBowl.exe
+D:\programozas-hazi\SuperBowl\SuperBowl\bin\Debug\SuperBowl.pdb
+D:\programozas-hazi\SuperBowl\SuperBowl\obj\Debug\SuperBowl.csproj.AssemblyReference.cache
+D:\programozas-hazi\SuperBowl\SuperBowl\obj\Debug\SuperBowl.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\SuperBowl\SuperBowl\obj\Debug\SuperBowl.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\SuperBowl\SuperBowl\obj\Debug\SuperBowl.exe
+D:\programozas-hazi\SuperBowl\SuperBowl\obj\Debug\SuperBowl.pdb
