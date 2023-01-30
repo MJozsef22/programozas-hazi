@@ -23,7 +23,7 @@ namespace rekurzio
             }
             if (givenInt == 2)
             {
-                return 2;
+                return 4;
             }
             else
             {
