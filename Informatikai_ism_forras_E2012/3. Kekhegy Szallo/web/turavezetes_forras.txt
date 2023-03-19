@@ -1,0 +1,15 @@
+﻿Cím:
+    Túravezetés
+
+Szöveg:
+    A Kékhegy még a Mátránál is magasabb, 1337 méter magasan fekvő tája és bizonyítottan különlegesen
+    jóminőségű hegyi levegője évtizedek óta méltán híres turistaparadicsom az egész évben. Vezetett gyalogtúráink egész évben rendelkezésre állnak.
+
+Gomb felirat:
+    Tovább az árlistára
+
+Kép forrása:
+    kepek/hotel_kinti_700_300.jpg
+
+Kép helyettesítő szövege:
+    Hotel külső látkép
