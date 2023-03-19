@@ -1,0 +1,8 @@
+D:\programozas-hazi\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.AssemblyReference.cache
+D:\programozas-hazi\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe.config
+D:\programozas-hazi\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.exe
+D:\programozas-hazi\BukkMaraton2019\BukkMaraton2019\bin\Debug\BukkMaraton2019.pdb
+D:\programozas-hazi\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.exe
+D:\programozas-hazi\BukkMaraton2019\BukkMaraton2019\obj\Debug\BukkMaraton2019.pdb

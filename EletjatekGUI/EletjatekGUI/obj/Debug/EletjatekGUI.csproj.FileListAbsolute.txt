@@ -1,0 +1,11 @@
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\bin\Debug\EletjatekGUI.exe.config
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\bin\Debug\EletjatekGUI.exe
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\bin\Debug\EletjatekGUI.pdb
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\obj\Debug\EletjatekGUI.csproj.AssemblyReference.cache
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\obj\Debug\EletjatekGUI.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\obj\Debug\EletjatekGUI.Form1.resources
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\obj\Debug\EletjatekGUI.Properties.Resources.resources
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\obj\Debug\EletjatekGUI.csproj.GenerateResource.cache
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\obj\Debug\EletjatekGUI.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\obj\Debug\EletjatekGUI.exe
+D:\programozas-hazi\EletjatekGUI\EletjatekGUI\obj\Debug\EletjatekGUI.pdb
