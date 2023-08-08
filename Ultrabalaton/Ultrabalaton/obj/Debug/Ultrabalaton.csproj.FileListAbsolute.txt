@@ -1,0 +1,8 @@
+D:\programozas-hazi\Ultrabalaton\Ultrabalaton\bin\Debug\Ultrabalaton.exe.config
+D:\programozas-hazi\Ultrabalaton\Ultrabalaton\bin\Debug\Ultrabalaton.exe
+D:\programozas-hazi\Ultrabalaton\Ultrabalaton\bin\Debug\Ultrabalaton.pdb
+D:\programozas-hazi\Ultrabalaton\Ultrabalaton\obj\Debug\Ultrabalaton.csproj.AssemblyReference.cache
+D:\programozas-hazi\Ultrabalaton\Ultrabalaton\obj\Debug\Ultrabalaton.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\Ultrabalaton\Ultrabalaton\obj\Debug\Ultrabalaton.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\Ultrabalaton\Ultrabalaton\obj\Debug\Ultrabalaton.exe
+D:\programozas-hazi\Ultrabalaton\Ultrabalaton\obj\Debug\Ultrabalaton.pdb

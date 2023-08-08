@@ -1,0 +1,8 @@
+D:\programozas-hazi\playfair\playfair\bin\Debug\playfair.exe.config
+D:\programozas-hazi\playfair\playfair\bin\Debug\playfair.exe
+D:\programozas-hazi\playfair\playfair\bin\Debug\playfair.pdb
+D:\programozas-hazi\playfair\playfair\obj\Debug\playfair.csproj.AssemblyReference.cache
+D:\programozas-hazi\playfair\playfair\obj\Debug\playfair.csproj.SuggestedBindingRedirects.cache
+D:\programozas-hazi\playfair\playfair\obj\Debug\playfair.csproj.CoreCompileInputs.cache
+D:\programozas-hazi\playfair\playfair\obj\Debug\playfair.exe
+D:\programozas-hazi\playfair\playfair\obj\Debug\playfair.pdb
